@@ -1,5 +1,5 @@
 
-# Low Level Design Questions
+# Commonly Asked Low Level Design Questions
 
 #### 1. Parking Lot System
 
